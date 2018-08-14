@@ -1,1 +1,9 @@
+Now a days, even though many of the people who need job are not being place,
+and those who arebreply worthy but not placed in any company want to work as a freelancer 
+to earn money and inprovise their skills. This is where proHub comes in action.
+
+Here this is a good platform for both freelancers and client. This application allows a individual to register as a clent or a freelancer and whenever the clent gives the description about the project, 
+admin will break down the work into different modules and assings the module to corresponding category freelancers.
+
+Whenever a freelancer is interested in that project They have to produce some prototype about the module and as the client receives the prototypes. Client choses one from all and requests to assin work to the freelancer.
 
